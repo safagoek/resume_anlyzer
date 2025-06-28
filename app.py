@@ -814,7 +814,7 @@ st.markdown("""
     <p>Powered by OpenRouter AI with DeepSeek Chat v3</p>
     <p>© 2025 | <a href="https://github.com/safagoek/resume_anlyzer" target="_blank" style="color: #667eea;">GitHub Repository</a></p>
     <p>This tool helps job seekers optimize their resumes for Applicant Tracking Systems (ATS)</p>
-    <p>For questions or support: <a href="https://linkedin.com/in/safa-gök" target="_blank" style="color: #667eea;">LinkedIn Profile</a></p>
+    <p>For questions and more: <a href="https://linkedin.com/in/safa-gök" target="_blank" style="color: #667eea;">LinkedIn Profile</a></p>
 </div>
 """, unsafe_allow_html=True)
 
